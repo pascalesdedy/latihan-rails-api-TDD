@@ -10,7 +10,7 @@
   gem 'faker'
   gem 'database_cleaner'
 
-#### https://medium.com/@pascales/simple-rails-api-server-using-simple-tdd-1a3dbeb3353a
+#### Please find the complete walkthrough in https://medium.com/@pascales/simple-rails-api-server-using-simple-tdd-1a3dbeb3353a
 
 
 
